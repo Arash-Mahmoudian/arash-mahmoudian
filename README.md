@@ -7,8 +7,10 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 - Hakim Sabzevari University: Electronic Engineering
 
 ## Work Experience
-- big impact 1
-- big impact 2
+- Dish Wireless: RF Data Scientist
+- Samsung: Optimization Engineer
+- NAK: Optimization Engineer
+- TopCom: Optimization Engineer
 
 <!--
 **Arash-Mahmoudian/arash-mahmoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
