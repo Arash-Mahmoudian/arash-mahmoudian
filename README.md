@@ -30,9 +30,9 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 
 <h2> Data Science Projects </h2>  
 - Time Series Analytics<br>
-- EDA: Loan Accpetance Prediction
-- Data Mining: Car Accident Severity Prediction
-- Data Preparation
+- EDA: Loan Accpetance Prediction<br>
+- Data Mining: Car Accident Severity Prediction<br>
+- Data Preparation<br>
           
           
           
