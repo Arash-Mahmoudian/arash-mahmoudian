@@ -33,7 +33,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 </table>
 
 <h2> Data Science Projects </h2>  
-- <a href="https://github.com/Arash-Mahmoudian/Data-Mining-Accident-Severity" target="_blank" rel="noopener noreferrer">Data Mining: Car Accident Severity Predictio</a><br>
+- <a href="https://github.com/Arash-Mahmoudian/Data-Mining-Accident-Severity" target="_blank" rel="noopener noreferrer">Data Mining: Car Accident Severity Prediction</a><br>
 - <a href="https://github.com/Arash-Mahmoudian/Time-Series-Predictive-Analytics" target="_blank" rel="noopener noreferrer">Time Series Analytics: Chicago Crime Rate</a><br>
 - <a href="https://github.com/Arash-Mahmoudian/EDA-Loan-Prediction" target="_blank" rel="noopener noreferrer">EDA: Loan Accpetance Prediction</a><br>
 - <a href="https://github.com/Arash-Mahmoudian/Data-Preparation" target="_blank" rel="noopener noreferrer">Data Preparation</a><br>
