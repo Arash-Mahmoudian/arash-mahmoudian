@@ -1,3 +1,9 @@
+<header>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
+</header>
+
+<body>
 # Portfolio👋
 # About Me
 I'm Arash From United States, and I'm an RF Data Scietist maily focused on applying AI/ML in telecommunication. We are developing an RF oriented application where we applying analytics and automation on data streams. I really enjoying learning new programming langugaues techniques. Our main focus is to make AI/ML native to the wireless industry. You can also check out my linkedin profile at www.linkedin.com/in/arash-mahmoudian
@@ -13,7 +19,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 - TopCom: Optimization Engineer
 
 ## Programing Languages:
- <img src="https://example.com/path-to-your-logo.png" alt="Logo Description">
+ 
 <!--
 **Arash-Mahmoudian/arash-mahmoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</body>
