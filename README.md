@@ -28,7 +28,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 <br>         
 <table border=1 style="table-layout: fixed; width:100%">
   <tr>
-    <td><img id="imglogo" alt="" src="https://placehold.it/100x35" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" display: flex;/></td>
     <td style="text-align: center">Centered Text</td>
     <td></td>
   </tr>
