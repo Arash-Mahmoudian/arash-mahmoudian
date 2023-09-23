@@ -27,9 +27,9 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 <br>         
 
-<h2> Programing Languages </h2>
+
 <h2> Data Science Projects </h2>  
-- Time Series Analytics
+- Time Series Analytics<br>
 - EDA: Loan Accpetance Prediction
 - Data Mining: Car Accident Severity Prediction
 - Data Preparation
