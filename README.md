@@ -19,8 +19,10 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 - TopCom: Optimization Engineer<br>
 
 <h2> Programing Languages </h2>
-  <i class="devicon-babel-plain"></i>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+  
+<i class="devicon-python-plain"></i>           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
           
           
 <!--
