@@ -26,7 +26,13 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 <br>         
-
+<table border=1 style="table-layout: fixed; width:100%">
+  <tr>
+    <td><img id="imglogo" alt="" src="https://placehold.it/100x35" /></td>
+    <td style="text-align: center">Centered Text</td>
+    <td></td>
+  </tr>
+</table>
 
 <h2> Data Science Projects </h2>  
 - Time Series Analytics<br>
