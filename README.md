@@ -11,7 +11,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 
 <h2> Education </h2>
 <h3>Data Science</h3> 
-<a href="https://www.bellevue.edu/" target="_blank" rel="noopener noreferrer">Bellevue University  Sep 2022 to Nov 2023</a><br>
+<a href="https://www.bellevue.edu/" target="_blank" rel="noopener noreferrer">Bellevue University</a> : Sep 2022 to Nov 2023<br>
 - <a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>: Electronic Engineering<br>
 
 <h2> Work Experience </h2>
