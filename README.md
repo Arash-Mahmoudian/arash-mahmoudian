@@ -1,5 +1,6 @@
 <header>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
  
 </header>
 
@@ -28,9 +29,6 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></td>
-    <td><img src="[https://icons8.com/icon/TpULddJc4gTh/c%2B%2B](https://icons8.com/icon/TpULddJc4gTh/c%2B%2B)">C++</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></td>
- https://icons8.com/icon/TpULddJc4gTh/c%2B%2B
- <a target="_blank" href="https://icons8.com/icon/TpULddJc4gTh/c%2B%2B">C++</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
   </tr>
 </table>
 
