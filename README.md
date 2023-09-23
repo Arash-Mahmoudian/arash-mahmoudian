@@ -38,8 +38,6 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 - <a href="https://github.com/Arash-Mahmoudian/EDA-Loan-Prediction" target="_blank" rel="noopener noreferrer">EDA: Loan Accpetance Prediction</a><br>
 - <a href="https://github.com/Arash-Mahmoudian/Data-Preparation" target="_blank" rel="noopener noreferrer">Data Preparation</a><br>
 
-- EDA: Loan Accpetance Prediction<br>
-- Data Preparation<br>
           
           
           
