@@ -1,4 +1,12 @@
-### Hi there 👋
+# arash-mahmoudian.github.io
+
+# Portfolio 👋
+# About Me
+I'm Arash From United States, and I'm an RF Data Scietist maily focused on applying AI/ML in telecommunication. We are developing an RF oriented application where we applying analytics and automation on data streams. I really enjoying learning new programming langugaues techniques. Our main focus is to make AI/ML native to the wireless industry. You can also check out my linkedin profile at www.linkedin.com/in/arash-mahmoudian
+
+# Work Experience
+- big impact 1
+- big impact 2
 
 <!--
 **Arash-Mahmoudian/arash-mahmoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
