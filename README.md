@@ -12,6 +12,8 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 - NAK: Optimization Engineer
 - TopCom: Optimization Engineer
 
+## Programing Languages:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 <!--
 **Arash-Mahmoudian/arash-mahmoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
