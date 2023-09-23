@@ -33,7 +33,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 </table>
 
 <h2> Data Science Projects </h2>  
-- <a href="[https://www.bellevue.edu/](https://github.com/Arash-Mahmoudian/Data-Mining-Accident-Severity)" target="_blank" rel="noopener noreferrer">Data Mining: Car Accident Severity Predictio</a>
+- <a href="https://github.com/Arash-Mahmoudian/Data-Mining-Accident-Severity" target="_blank" rel="noopener noreferrer">Data Mining: Car Accident Severity Predictio</a>
 https://github.com/Arash-Mahmoudian/Data-Mining-Accident-Severity
 - Time Series Analytics<br>
 - EDA: Loan Accpetance Prediction<br>
