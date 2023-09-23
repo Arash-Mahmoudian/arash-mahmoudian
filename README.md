@@ -13,7 +13,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 - TopCom: Optimization Engineer
 
 ## Programing Languages:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+ <img src="https://example.com/path-to-your-logo.png" alt="Logo Description">
 <!--
 **Arash-Mahmoudian/arash-mahmoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
