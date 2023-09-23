@@ -10,7 +10,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 
 <h2> Education </h2>
 - <a href="https://www.bellevue.edu/" target="_blank" rel="noopener noreferrer">Bellevue University</a>: Data Science<br>
-- Hakim Sabzevari University: Electronic Engineering<br>
+- <a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>: Electronic Engineering<br>
 
 <h2> Work Experience </h2>
 - Dish Wireless: RF Data Scientist<br>
