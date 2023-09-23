@@ -21,7 +21,7 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 <h2> Programing Languages </h2>
   
 <i class="devicon-python-plain"></i>           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
           
           
           
