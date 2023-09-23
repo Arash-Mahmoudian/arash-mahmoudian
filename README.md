@@ -19,7 +19,9 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 - TopCom: Optimization Engineer<br>
 
 <h2> Programing Languages </h2>
-  <i class="devicon-babel-plain"></i>
+  <i class="devicon-babel-plain"></i>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+          
           
 <!--
 **Arash-Mahmoudian/arash-mahmoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
