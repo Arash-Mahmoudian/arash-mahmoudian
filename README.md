@@ -31,9 +31,9 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></td>
-   <i class="programming lang-cpp"></i>
   </tr>
 </table>
+<i class="programming lang-cpp"></i>
 
 <h2> Data Science Projects </h2>  
 - <a href="https://github.com/Arash-Mahmoudian/Skin-Cancer-Diagnosis-Deep-Learning-" target="_blank" rel="noopener noreferrer">Deep Learning: Skin Cancer Diagnosis</a><br>
