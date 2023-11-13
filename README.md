@@ -18,8 +18,8 @@ I'm Arash From United States, and I'm an RF Data Scietist maily focused on apply
 <h2> Work Experience </h2>
 - Dish Wireless: RF Data Scientist<br>
 - Samsung: RF Engineer<br>
-- NAK: Optimization Engineer<br>
-- TopCom: Optimization Engineer<br>
+- NAK: RF Optimization Engineer<br>
+- TopCom: RF Optimization Engineer<br>
 
 <h2> Programing Languages </h2>  
 <i class="devicon-python-plain"></i>           
