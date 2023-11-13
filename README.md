@@ -9,7 +9,8 @@
 Hi there👋
 I'm Arash From United States, and I'm an RF Data Scietist maily focused on applying AI/ML in telecommunication. We are developing an RF oriented application where we applying analytics and automation on data streams. I really enjoying learning new programming langugaues techniques. Our main focus is to make AI/ML native to the wireless industry. You can also check out my linkedin profile at www.linkedin.com/in/arash-mahmoudian
 
-- <a href="https://github.com/Arash-Mahmoudian/resume" target="_blank" rel="noopener noreferrer">Download Resume</a><br>
+<a href="https://github.com/Arash-Mahmoudian/resume" target="_blank" rel="noopener noreferrer">Download Resume</a><br>
+
 <h2> Education </h2>
 <h4>Data Science</h4> 
 <a href="https://www.bellevue.edu/" target="_blank" rel="noopener noreferrer">Bellevue University</a> : Sep 2022 to Nov 2023<br>
