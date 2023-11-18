@@ -20,6 +20,15 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
 
 <h2> Work Experience </h2>
 - Dish Wireless: RF Data Scientist<br>
+  Developing O-RAN observability Web Application Tool
+  Developed automated O-RAN Configuration Management (CM) audit tool (XML parsing – GPL Audit)
+  Created O-RAN AI/ML Time Series KPI Predictive Model
+  Created ML model to perform Data Integrity check on O-RAN KPIs
+  Created Tableau dashboards: RAN KPI, LTP, RET, GPL audits.
+  Designed and created data integrity validation tool (Python, MySQL)
+  Created multiple Python, Access, and VBA validation tools.
+  Three pending O-RAN joint patents
+  
 - Samsung: RF Engineer<br>
 - NAK: RF Optimization Engineer<br>
 - TopCom: RF Optimization Engineer<br>
