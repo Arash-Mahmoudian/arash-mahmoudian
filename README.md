@@ -27,7 +27,7 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
     Created Tableau dashboards: RAN KPI, LTP, RET, GPL audits<br>
     Designed and created data integrity validation tool (Python, MySQL)<br>
     Created multiple Python, Access, and VBA validation tools<br>
-    Three pending O-RAN joint patents<br>
+    Three pending O-RAN patents<br>
   
 - <h4>Samsung: RF Engineer</h4><br>
 - <h4>NAK: RF Optimization Engineer</h4><br>
