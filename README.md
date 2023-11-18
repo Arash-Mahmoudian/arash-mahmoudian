@@ -19,7 +19,7 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
 - <a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>: 2003 to 2008 <br>
 
 <h2> Work Experience </h2>
-<h3>Dish Wireless: RF Data Scientist</h3><br>
+<h3><a href="https://www.dishwireless.com/home" target="_blank" rel="noopener noreferrer">Dish Wireless: RF Data Scientist</a></h3><br>
  • Developing O-RAN observability Web Application Tool<br>
  • Developed automated O-RAN Configuration Management (CM) audit tool (XML parsing – GPL Audit)<br>
  • Created O-RAN AI/ML Time Series KPI Predictive Model<br>
@@ -29,7 +29,7 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
  • Created multiple Python, Access, and VBA validation tools<br>
  • Three pending O-RAN patents<br>
 
-<a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>
+<a href="https://www.dishwireless.com/home" target="_blank" rel="noopener noreferrer">Dish Wireless: RF Data Scientist</a>
 <h3>Samsung: RF Engineer</h3><br>
 • Automation engineer<br>
 • Developed RF engineering handy tools<br>
