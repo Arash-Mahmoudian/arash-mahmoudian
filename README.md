@@ -19,24 +19,24 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
 - <a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>: 2003 to 2008 <br>
 
 <h2> Work Experience </h2>
-<h3> - Dish Wireless: RF Data Scientist</h3><br>
-    Developing O-RAN observability Web Application Tool<br>
-    Developed automated O-RAN Configuration Management (CM) audit tool (XML parsing – GPL Audit)<br>
-    Created O-RAN AI/ML Time Series KPI Predictive Model<br>
-    Created ML model to perform Data Integrity check on O-RAN KPIs<br>
-    Created Tableau dashboards: RAN KPI, LTP, RET, GPL audits<br>
-    Designed and created data integrity validation tool (Python, MySQL)<br>
-    Created multiple Python, Access, and VBA validation tools<br>
-    Three pending O-RAN patents<br>
+<h3>Dish Wireless: RF Data Scientist</h3><br>
+ • Developing O-RAN observability Web Application Tool<br>
+ • Developed automated O-RAN Configuration Management (CM) audit tool (XML parsing – GPL Audit)<br>
+ • Created O-RAN AI/ML Time Series KPI Predictive Model<br>
+ • Created ML model to perform Data Integrity check on O-RAN KPIs<br>
+ • Created Tableau dashboards: RAN KPI, LTP, RET, GPL audits<br>
+ • Designed and created data integrity validation tool (Python, MySQL)<br>
+ • Created multiple Python, Access, and VBA validation tools<br>
+ • Three pending O-RAN patents<br>
   
-<h3> - Samsung: RF Engineer</h3><br>
-Automation engineer<br>
-Developed RF engineering handy tools<br>
-Nokia to Samsung Migration<br>
-RF-ATP troubleshooting (4G, CBRS, DSS, and EN-DC C-Band)<br>
-Root cause analysis of low throughput and attach issue of the newly built C-Band sites<br>
-Non-standalone 5G-NR C-Band KPI analysis<br>
-DT Analysis (Accuver)<br>
+<h3>Samsung: RF Engineer</h3><br>
+• Automation engineer<br>
+• Developed RF engineering handy tools<br>
+• Nokia to Samsung Migration<br>
+• RF-ATP troubleshooting (4G, CBRS, DSS, and EN-DC C-Band)<br>
+• Root cause analysis of low throughput and attach issue of the newly built C-Band sites<br>
+• Non-standalone 5G-NR C-Band KPI analysis<br>
+• DT Analysis (Accuver)<br>
 
 - <h4>NAK: RF Optimization Engineer</h4><br>
 
