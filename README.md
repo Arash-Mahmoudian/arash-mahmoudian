@@ -38,18 +38,17 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
 • Non-standalone 5G-NR C-Band KPI analysis<br>
 • DT Analysis (Accuver)<br>
 
-- <h4>NAK: 3G & 4G(LTE) RF Optimization Engineer</h4><br>
-• 2G optimization.
-• 3G Carrier strategy (Load Balancing among various 900 and 2100 MHz). Push R99 to a specific carrier as well as HSPA.
-• Feature activation
-• HSPA, CAC, LDR, DRD, 2ms HSUPA, CE overbooking.
-• IRAT- Interoperability
-• CSFB to 3G and 2G
-• Drive Test analysis (Tems & Actix) to figure out the signaling issues, Layer 3 analysis, RRC & RAB establishment, failures and deep Logfile analysis
-Drive Test:
-• Collect data (Tems Investigation, Genex)
-• Post Processing (Tems Discovery, Actix)
-• Layer 3 analysis, Find Gap coverages, low quality areas, Sector & feeder Swaps, Identify external interferences, Low throughput HSPA analysis.
+<h4>NAK: 3G & 4G(LTE) RF Optimization Engineer</h4><br>
+• 3G Carrier strategy (Load Balancing among various 900 and 2100 MHz). Push R99 to a specific carrier as well as HSPA<br>
+• Feature activation<br>
+• HSPA, CAC, LDR, DRD, 2ms HSUPA, CE overbooking<br>
+• IRAT- Interoperability<br>
+• 4G CSFB to 3G and 2G<br>
+• Drive Test analysis (Tems & Actix) to figure out the signaling issues, Layer 3 analysis, RRC & RAB establishment, failures, and deep Logfile analysis<br>
+  Drive Test:
+• Collect data (Tems Investigation, Genex)<br>
+• Post Processing (Tems Discovery, Actix)<br>
+• Layer 3 analysis, Find Gap coverages, low-quality areas, Sector & feeder Swaps, Identify external interferences, Low throughput HSPA analysis<br>
 
 - <h4>TopCom: RF Optimization Engineer</h4><br>
 
