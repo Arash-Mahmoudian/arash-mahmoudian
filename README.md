@@ -39,6 +39,24 @@ Non-standalone 5G-NR C-Band KPI analysis<br>
 DT Analysis (Accuver)<br>
 
 - <h4>NAK: RF Optimization Engineer</h4><br>
+
+3G and 4G(LTE) optimization.
+• 2G optimization.
+• 3G Carrier strategy (Load Balancing among various 900 and 2100 MHz). Push R99 to a specific carrier as well as HSPA.
+• Feature activation
+• HSPA, CAC, LDR, DRD, 2ms HSUPA, CE overbooking.
+• IRAT- Interoperability
+• CSFB to 3G and 2G
+• Drive Test analysis (Tems & Actix) to figure out the signaling issues, Layer 3 analysis, RRC & RAB establishment, failures and deep Logfile analysis
+Drive Test:
+• Collect data (Tems Investigation, Genex)
+• Post Processing (Tems Discovery, Actix)
+• Layer 3 analysis, Find Gap coverages, low quality areas, Sector & feeder Swaps, Identify external interferences, Low throughput HSPA analysis.
+
+GSM optimization.
+• KPI analysis & TRX expansion.
+• Time Slot reconfiguration, Signaling analysis.
+• Find solutions to improve KPIs (CSSR,HOSR,CDR,..)
 - <h4>TopCom: RF Optimization Engineer</h4><br>
 
 <h2> Programing Languages </h2>  
