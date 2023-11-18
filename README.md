@@ -18,6 +18,8 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
 <h4>Electrical and Electronics Engineering</h4>
 - <a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>: 2003 to 2008 <br>
 
+<h2> Academics </h2>
+
 <h2> Work Experience </h2>
 <h3><a href="https://www.dishwireless.com/home" target="_blank" rel="noopener noreferrer">Dish Wireless: RF Data Scientist</a></h3><br>
  • Developing O-RAN observability Web Application Tool<br>
