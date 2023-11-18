@@ -87,7 +87,8 @@ One under-review IEEE paper: Electric Consumption Optimization (Machine Learning
 
           
           
-          
+ <h2> Contact </h2>   
+ Email: ArashMahmoudian@hotmail.com
           
 <!--
 **Arash-Mahmoudian/arash-mahmoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
