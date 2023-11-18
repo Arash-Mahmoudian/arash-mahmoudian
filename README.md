@@ -29,7 +29,7 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
     Created multiple Python, Access, and VBA validation tools<br>
     Three pending O-RAN patents<br>
   
-- <h4>Samsung: RF Engineer</h4><br>
+<h3> - Samsung: RF Engineer</h3><br>
 - <h4>NAK: RF Optimization Engineer</h4><br>
 - <h4>TopCom: RF Optimization Engineer</h4><br>
 
