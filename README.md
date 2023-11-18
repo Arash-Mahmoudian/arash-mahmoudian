@@ -30,6 +30,14 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
     Three pending O-RAN patents<br>
   
 <h3> - Samsung: RF Engineer</h3><br>
+Automation engineer<br>
+Developed RF engineering handy tools<br>
+Nokia to Samsung Migration<br>
+RF-ATP troubleshooting (4G, CBRS, DSS, and EN-DC C-Band)<br>
+Root cause analysis of low throughput and attach issue of the newly built C-Band sites<br>
+Non-standalone 5G-NR C-Band KPI analysis<br>
+DT Analysis (Accuver)<br>
+
 - <h4>NAK: RF Optimization Engineer</h4><br>
 - <h4>TopCom: RF Optimization Engineer</h4><br>
 
