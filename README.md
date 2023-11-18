@@ -19,19 +19,19 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
 - <a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>: 2003 to 2008 <br>
 
 <h2> Work Experience </h2>
-- Dish Wireless: RF Data Scientist<br>
-  Developing O-RAN observability Web Application Tool
-  Developed automated O-RAN Configuration Management (CM) audit tool (XML parsing – GPL Audit)
-  Created O-RAN AI/ML Time Series KPI Predictive Model
-  Created ML model to perform Data Integrity check on O-RAN KPIs
-  Created Tableau dashboards: RAN KPI, LTP, RET, GPL audits.
-  Designed and created data integrity validation tool (Python, MySQL)
-  Created multiple Python, Access, and VBA validation tools.
-  Three pending O-RAN joint patents
+- <h4>Dish Wireless: RF Data Scientist</h4><br>
+  Developing O-RAN observability Web Application Tool<br>
+  Developed automated O-RAN Configuration Management (CM) audit tool (XML parsing – GPL Audit)<br>
+  Created O-RAN AI/ML Time Series KPI Predictive Model<br>
+  Created ML model to perform Data Integrity check on O-RAN KPIs<br>
+  Created Tableau dashboards: RAN KPI, LTP, RET, GPL audits<br>
+  Designed and created data integrity validation tool (Python, MySQL)<br>
+  Created multiple Python, Access, and VBA validation tools<br>
+  Three pending O-RAN joint patents<br>
   
-- Samsung: RF Engineer<br>
-- NAK: RF Optimization Engineer<br>
-- TopCom: RF Optimization Engineer<br>
+- <h4>Samsung: RF Engineer</h4><br>
+- <h4>NAK: RF Optimization Engineer</h4><br>
+- <h4>TopCom: RF Optimization Engineer</h4><br>
 
 <h2> Programing Languages </h2>  
 <i class="devicon-python-plain"></i>           
