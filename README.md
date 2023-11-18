@@ -28,7 +28,8 @@ I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on
  • Designed and created data integrity validation tool (Python, MySQL)<br>
  • Created multiple Python, Access, and VBA validation tools<br>
  • Three pending O-RAN patents<br>
-  
+
+<a href="https://www.hsu.ac.ir/" target="_blank" rel="noopener noreferrer">Hakim Sabzevari University</a>
 <h3>Samsung: RF Engineer</h3><br>
 • Automation engineer<br>
 • Developed RF engineering handy tools<br>
