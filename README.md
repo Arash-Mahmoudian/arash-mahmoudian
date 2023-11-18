@@ -7,7 +7,7 @@
 
 <h2> About Me</h2>
 Hi there👋
-I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on applying AI/ML in telecommunication. I was part of a team, developing the O-RAN observability web application tool where we were applying analytics and automation on data streams. I enjoy learning new programming language techniques. My interests include the use of AI/ML in 5G network optimization, massive MIMO, beamforming, statistics, time series analysis, and vector databases. You can also check out my LinkedIn profile at https://github.com/Arash-Mahmoudian. You can also check out my LinkedIn profile at www.linkedin.com/in/arash-mahmoudian
+I'm Arash From the United States, and I'm an RF Data Scientist mainly focused on applying AI/ML in telecommunication. I was part of a team, developing the O-RAN observability web application tool where we were applying analytics and automation on data streams. I enjoy learning new programming language techniques. My interests include the use of AI/ML in 5G network optimization, massive MIMO, beamforming, statistics, time series analysis, and vector databases. You can also check out my LinkedIn profile at www.linkedin.com/in/arash-mahmoudian
 
 <br><br><br>
  Click on <a href="https://github.com/Arash-Mahmoudian/resume" target="_blank" rel="noopener noreferrer">Resume(CV)</a> to download my resume<br><br>
